@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NLP</string>
+    <string name="cast">cast</string>
+    <string name="app_id">A6219457</string>
+    <string name="init_error"></string>
+    <string name="secondscreentext">This is android device</string>
+    <string name="remotedisplaytext">This is remote display</string>
+
+    <string name="cast_connected_to">Connected to</string>
+    <string name="toast_connection_error">There is a connection error, please try again</string>
+    <string name="presentation_detail_description_title">background Image</string>
+    <string name="ad_title_placeholder">Normal Text</string>
+    <string name="ad_price_placeholder">normal </string>
+
+</resources>
